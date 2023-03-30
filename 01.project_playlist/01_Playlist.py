@@ -198,9 +198,6 @@ def delete_video(playlist):
     print("Deleted successfully!! ")
     return playlist
 
-
-
-
 def main():
     
     try:
