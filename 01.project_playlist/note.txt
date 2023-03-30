@@ -1,0 +1,4 @@
+có thể nâng cấp thêm nhiều chức năng cho playlist
+- chuột trỏ tới đâu hiện thông tin tới đó (description, link, sao rating)
+- videos đã được play rồi thì đổi màu như trên google
+- thêm giao điện (<| U |> )
